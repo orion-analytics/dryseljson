@@ -10,8 +10,9 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,  either express or implied.  See the License for the specific language governing    
  * permissions and limitations under the License.
  */
-package com.orchestral.automation.drysel.json;
+package com.orchestral.automation.drysel.json.model;
 
+import com.orchestral.automation.drysel.json.TestEventReflector;
 import com.orchestral.automation.dryselcore.model.UIElement;
 
 public class JsonUIElement {

@@ -15,6 +15,7 @@ package com.orchestral.automation.drysel.json;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.orchestral.automation.drysel.json.model.JsonUIElement;
 import com.orchestral.automation.dryselcore.model.TestDatum;
 import com.orchestral.automation.dryselcore.model.UIElement;
 
